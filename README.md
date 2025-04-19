@@ -5,7 +5,7 @@ Architected a comprehensive E-Library Management System with HTML ,CSS for the f
 
 # Output
 
-![home](https://github.com/user-attachments/assets/7c6e2e15-d5ad-4198-8c98-9c3f1a27c699)
+![home](https://github.com/user-attachments/assets/3d891bd8-7978-4436-b246-02bcd85e2794)
 
 ![login](https://github.com/user-attachments/assets/7efe521a-cb23-40c3-9f28-b81b3d74995c)
 
