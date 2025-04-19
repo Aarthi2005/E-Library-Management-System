@@ -13,55 +13,55 @@ The E-Library Management System is a web-based application developed using HTML 
 
 # Methods & Implementation
 
-1. System Design
+1.System Design
    
 **Frontend (HTML/CSS):**
 
-Built static pages for login, registration, dashboards, and book listings.
+->Built static pages for login, registration, dashboards, and book listings.
 
-Applied CSS for consistent design and user-friendly navigation.
+->Applied CSS for consistent design and user-friendly navigation.
 
 **Backend (PHP):**
 
-Handled server-side logic including form submissions, validations, and CRUD operations.
+->Handled server-side logic including form submissions, validations, and CRUD operations.
 
-Implemented session handling for login/logout functionalities.
+->Implemented session handling for login/logout functionalities.
 
 **Database (MySQL):**
 
-Designed tables for students, admins, books, requests, and registrations.
+->Designed tables for students, admins, books, requests, and registrations.
 
-Established relational connections for efficient querying.
+->Established relational connections for efficient querying.
 
-2. Key Modules
+2.Key Modules
    
 **Admin Panel**
 
-Login authentication.
+->Login authentication.
 
-Add/update/delete book records.
+->Add/update/delete book records.
 
-Approve or reject new user registrations.
+->Approve or reject new user registrations.
 
-View issued books.
+->View issued books.
 
 **Student Panel**
 
-Login and dashboard access.
+->Login and dashboard access.
 
-Search books by title, author, or category.
+->Search books by title, author, or category.
 
-Request books.
+->Request books.
 
-View history.
+->View history.
 
 **Registration Module**
 
-New users fill out a form.
+->New users fill out a form.
 
-Data is stored in a pending_requests table.
+->Data is stored in a pending_requests table.
 
-Admin reviews and approves/rejects.
+->Admin reviews and approves/rejects.
 
 # Output
 
